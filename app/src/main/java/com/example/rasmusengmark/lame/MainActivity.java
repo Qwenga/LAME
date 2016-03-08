@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         });
         btn3.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-            
+            Knepper kun i røven
                 einstein.setImageBitmap(null);
             }
 
