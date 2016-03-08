@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                     einstein.setVisibility(View.INVISIBLE);
                 }
                 catch (IndexOutOfBoundsException e){
-MUGGIMUGGIMUGGI
+
                 }
             }
 
